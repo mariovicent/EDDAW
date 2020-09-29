@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hola
 que tal?????''
+=======
+hola...
+que tal---
+>>>>>>> f70236c2c09b32c7f97921edd65770f791589ebe
